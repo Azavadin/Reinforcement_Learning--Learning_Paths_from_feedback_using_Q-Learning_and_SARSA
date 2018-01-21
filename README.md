@@ -1,4 +1,4 @@
-# Reinforcement_Learning--Learning_Paths_from_feedback_using_Q-Learning_and_SARSA
+# Reinforcement_Learning--Learning_Paths_using_Q-Learning_and_SARSA
 
 # Language used - Java Swings
 
