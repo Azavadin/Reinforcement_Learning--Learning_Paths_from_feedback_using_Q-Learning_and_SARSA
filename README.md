@@ -1,5 +1,9 @@
 # Reinforcement_Learning--Learning_Paths_from_feedback_using_Q-Learning_and_SARSA
 
+# Language used - Java Swings
+
+# Problem Statement:
+
 In this project we used reinforcement to learn and adapt “promising paths” in robot-style grid world.
 
 Q-learning/SARSA for the PD-Word (http://www2.cs.uh.edu/~ceick/ai/2017-World.pptx) was used to conduct 3 experiments using different parameters and policies, Summary and interpretation of the experimental results is available in Report.pdf.
